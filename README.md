@@ -1,3 +1,3 @@
 # yelinnhtet.github.io
 
-It is my porfolio site
+It is my portfolio site
