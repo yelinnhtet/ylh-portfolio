@@ -1,4 +1,4 @@
-# yelinnhtet.github.io
+# ylh-portfolio
 
 My name is Ye Linn Htet.
 I am a web developer. I have graduated from University of Computer Studied Magway in Nov 2017.
